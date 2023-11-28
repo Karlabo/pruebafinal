@@ -1,56 +1,56 @@
 [
     {
         "nombre": "Kokuru",
-        "fotos": ["https://github.com/Karlabo/clase12/blob/main/fotos/f1.jpg?raw=true", "https://github.com/Karlabo/clase12/blob/main/fotos/f2.jpg?raw=true", "https://github.com/Karlabo/clase12/blob/main/fotos/f3.jpg?raw=true"],
+        "fotos": ["https://github.com/Karlabo/pruebafinal/blob/main/fotos/f1.jpg?raw=true", "https://github.com/Karlabo/pruebafinal/blob/main/fotos/f2.jpg?raw=true", "https://github.com/Karlabo/pruebafinal/blob/main/fotos/f3.jpg?raw=true"],
         "soporte": "DiseñoEspeculativo",
         "abstract": "Sociedad del despertar",
         "texto": "En 40 años más debido a la mala administración de los recursos naturales, Chile se enfrentará a una desertificación de su paisaje, será la llamada Gran sequía. Ante esto, surge el despertar de la conciencia especialmente de los jóvenes, quienes buscan soluciones, tomando en sus manos el valor de la administración del agua, por lo que es preciso aprovechar al máximo los recursos disponibles. En base al desarrollo de filtros de osmosis forzada es posible purificar y beber orina, en el año 2060 la tecnología esta masificada y en cada casa existen sistemas de purificación para la orina."
     },
     {
         "nombre": "Converse Spectra",        
-        "fotos": ["https://github.com/Karlabo/clase12/blob/main/fotos/f4.jpg?raw=true", "https://github.com/Karlabo/clase12/blob/main/fotos/f5.jpg?raw=true", "https://github.com/Karlabo/clase12/blob/main/fotos/f6.jpg?raw=true"],
+        "fotos": ["https://github.com/Karlabo/pruebafinal/blob/main/fotos/f4.jpg?raw=true", "https://github.com/pruebafinal/clase12/blob/main/fotos/f5.jpg?raw=true", "https://github.com/Karlabo/pruebafinal/blob/main/fotos/f6.jpg?raw=true"],
         "soporte": "DiseñoGráfico",
         "abstract": "Colección de zapatillas",
         "texto": "Converse Spectra es una serie de zapatillas inspiradas en el espectro lumínico, consta de tres modelos de zapatillas que se inspiran en el espectro lumínico y su versatilidad cromática. Cada modelo presenta un diseño diferente, pero todos están unidos por un mismo concepto: la representación de los colores de la luz visible. Se trata de una serie de zapatillas únicas que combinan un diseño elegante con una inspiración científica, son ideales para cualquier persona que busque un calzado moderno y llamativo."
     },
     {
         "nombre": "Batman Forever",
-        "fotos": ["https://github.com/Karlabo/clase12/blob/main/fotos/f7.jpg?raw=true", "https://github.com/Karlabo/clase12/blob/main/fotos/f8.jpg?raw=true", "https://github.com/Karlabo/clase12/blob/main/fotos/f9.jpg?raw=true"],
+        "fotos": ["https://github.com/Karlabo/pruebafinal/blob/main/fotos/f7.jpg?raw=true", "https://github.com/Karlabo/pruebafinal/blob/main/fotos/f8.jpg?raw=true", "https://github.com/Karlabo/pruebafinal/blob/main/fotos/f9.jpg?raw=true"],
         "soporte": "Modelado3D",
         "abstract": "Modelado 3D en Rhinoceros",
         "texto": "Este proyecto de diseño digital tiene el objetivo de crear un modelo 3D, realista, del batimovil de la película Batman Forever, película dirigida por Tim Burton en 1995. Para crear el modelo 3D, se utilizaron varios métodos diferentes, incluyendo el modelado de polígonos, el modelado de superficies y el modelado de mallas. Se exploraron una variedad de texturas y materialidades, incluyendo texturas metálicas y de fibra de carbono. Las propuestas finales se evaluaron en función de su precisión, realismo y viabilidad, llegando a un modelo que combina la precisión del modelado con el realismo de las texturas."
     },
     {
         "nombre": "Full Color",
-        "fotos": ["https://github.com/Karlabo/clase12/blob/main/fotos/f10.jpg?raw=true", "https://github.com/Karlabo/clase12/blob/main/fotos/f11.jpg?raw=true", "https://github.com/Karlabo/clase12/blob/main/fotos/f12.jpg?raw=true"],
+        "fotos": ["https://github.com/Karlabo/pruebafinal/blob/main/fotos/f10.jpg?raw=true", "https://github.com/Karlabo/pruebafinal/blob/main/fotos/f11.jpg?raw=true", "https://github.com/Karlabo/pruebafinal/blob/main/fotos/f12.jpg?raw=true"],
         "soporte": "Artetradicional",
         "abstract": "retratos hiperrealistas con policromos",
         "texto": "Se muestra una serie de diferentes obras realizadas con lápices policromos. Se trata de un tipo de lápices que ofrece una amplia gama de colores y tonos, permitiendo crear dibujos realistas con un alto grado de detalle. Para el proceso de creación, en primer lugar, se crea un boceto detallado de la imagen que se desea dibujar. A continuación, se aplican los colores, uno a uno, en capas finas y precisas. Para crear un efecto lo más realista posible, es importante prestar atención a los detalles, como las sombras, los reflejos y las texturas."
     },
     {
         "nombre": "Retratos en grafito",
-        "fotos": ["https://github.com/Karlabo/clase12/blob/main/fotos/f13.jpg?raw=true", "https://github.com/Karlabo/clase12/blob/main/fotos/f14.jpg?raw=true", "https://github.com/Karlabo/clase12/blob/main/fotos/f15.jpg?raw=true"],
+        "fotos": ["https://github.com/Karlabo/pruebafinal/blob/main/fotos/f13.jpg?raw=true", "https://github.com/Karlabo/pruebafinal/blob/main/fotos/f14.jpg?raw=true", "https://github.com/Karlabo/pruebafinal/blob/main/fotos/f15.jpg?raw=true"],
         "soporte": "ArteTradicional",
         "abstract": "Retratos hiperrealistas con grafito",
         "texto": "Uno de mis hobbies es el dibujo, y en la siguiente serie he realizado diferentes retratos de estilo hiperrealista. Las técnicas empleadas buscan crear un efecto de textura y movimiento, para ello, utilizo diferentes tipos de lápices de grafito, desde los más duros para las zonas de luz hasta los más blandos para las zonas de sombra. También utilizo técnicas de sombreado y difuminado para crear una sensación de volumen y profundidad. Los materiales que utilizo son lápices de grafito de diferentes graduaciones, papel de dibujo de alta calidad y goma de borrar."
     },
     {
         "nombre": "JJ.OO 2032",
-        "fotos": ["https://github.com/Karlabo/clase12/blob/main/fotos/f16.jpg?raw=true", "https://github.com/Karlabo/clase12/blob/main/fotos/f17.jpg?raw=true", "https://github.com/Karlabo/clase12/blob/main/fotos/f18.jpg?raw=true"],
+        "fotos": ["https://github.com/Karlabo/pruebafinal/blob/main/fotos/f16.jpg?raw=true", "https://github.com/Karlabo/pruebafinal/blob/main/fotos/f17.jpg?raw=true", "https://github.com/Karlabo/pruebafinal/blob/main/fotos/f18.jpg?raw=true"],
         "soporte": "Modelado3D",
         "abstract": "Juegos Olimpicos Araucania 2032",
         "texto": "Imagina que en los próximos años, el año 2032, Chile será sede de los Juegos Olímpicos. La novena región del país, la Araucanía, será la elegida como sede principal. Esta región es conocida por sus hermosos paisajes naturales, destacando la figura principal de la araucana, un árbol nativo de la zona. La figura de la araucana ha sido elegida como inspiración para el diseño de la nueva antorcha olímpica, la cual está fabricada en base a materiales de memoria como el Nitinol y otros livianos como el Arboform."
     },
     {
         "nombre": "Beauty",
-        "fotos": ["https://github.com/Karlabo/clase12/blob/main/fotos/f19.jpg?raw=true", "https://github.com/Karlabo/clase12/blob/main/fotos/f20.jpg?raw=true", "https://github.com/Karlabo/clase12/blob/main/fotos/f21.jpg?raw=true"],
+        "fotos": ["https://github.com/Karlabo/pruebafinal/blob/main/fotos/f19.jpg?raw=true", "https://github.com/Karlabo/pruebafinal/blob/main/fotos/f20.jpg?raw=true", "https://github.com/Karlabo/pruebafinal/blob/main/fotos/f21.jpg?raw=true"],
         "soporte": "Ilustración",
         "abstract": "Ilustraciones digitales inspiradas en la belleza femenina",
         "texto": "Siempre me ha gustado dibujar. Sin embargo, hace unos meses decidí empezar a experimentar con diferentes técnicas y estilos, y rápidamente me enamoré de la ilustración. En mis dibujos, busco capturar la belleza y la complejidad de la figura femenina. Me interesa explorar la expresión facial, la textura de la piel y la profundidad de la mirada. También me gusta jugar con la moda y la estética, creando imágenes que sean a la vez elegantes y sensuales. Para esta serie de dibujos, utilicé el programa Procreate, una aplicación de dibujo digital que me permite trabajar con gran precisión y libertad."
     },
     {
         "nombre": "Halloween-Nestle",
-        "fotos": ["https://github.com/Karlabo/clase12/blob/main/fotos/f22.jpg?raw=true", "https://github.com/Karlabo/clase12/blob/main/fotos/f23.jpg?raw=true", "https://github.com/Karlabo/clase12/blob/main/fotos/f24.jpg?raw=true"],
+        "fotos": ["https://github.com/Karlabo/pruebafinal/blob/main/fotos/f22.jpg?raw=true", "https://github.com/Karlabo/pruebafinal/blob/main/fotos/f23.jpg?raw=true", "https://github.com/Karlabo/pruebafinal/blob/main/fotos/f24.jpg?raw=true"],
         "soporte": "DiseñoGráfico",
         "abstract": "Invitaciones para trabajadores de la fábrica Macúl",
         "texto": "Como practicante en Nestle, tuve que crear material gráfico para diversas áreas, charlas, fiestas de la organización, y departamentos, entre otras cosas. Por este motivo el uso de herramientas conjuntas fue esencial para llevar a cabo un trabajo optimo, manejando constantemente distintas aplicaciones, como por ejemplo: Utilización de Adobe Cloud para crear imágenes y gráficos de alta calidad, implementación de sistemas de gestión de proyectos para organizar el trabajo y cumplir con los plazos y la realización de pruebas de usabilidad para garantizar que el material gráfico fuera fácil de entender y utilizar."
