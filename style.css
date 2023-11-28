@@ -1,0 +1,236 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;700&display=swap');
+
+
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  width: 100vw;
+}
+
+.wrapper {
+  width: 100vw;
+  height: 100vh;
+  background-color: #191c32;
+  color: #fff;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  background-color: #02051F;
+  padding: 1em;
+}
+.wrapper a{
+  color: aqua;
+
+}
+.menu {
+  display: flex;
+  width: 50%;
+  justify-content: space-around;
+}
+.menu  li {
+  list-style: none;
+
+}
+.menu a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px; 
+}
+
+.menu li:hover a{
+  background-color: aqua;
+  color: #191c32;
+}
+
+
+.menu li a:hover {
+  color: #66E7C8;
+}
+
+
+.main {
+  margin: 0 auto;
+  width: 80vw;
+  height: 80vh;
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  align-items: center;
+  gap: 2em;
+}
+
+h1 {
+  font-size: 2.5em;
+  padding: 10px;
+  font-weight: bolder;
+}
+
+.info-content span {
+  color: aqua;
+}
+
+.download-cv {
+  padding: 10px 20px;
+  background-color: aqua;
+  border: none;
+  border-radius: 20px;
+  margin-top: 10px;
+  cursor: pointer;
+  -webkit-box-shadow: 1px 3px 11px -5px rgba(102,231,200,0.69);
+  -moz-box-shadow: 1px 3px 11px -5px rgba(102,231,200,0.69);
+  box-shadow: 1px 3px 11px -5px rgba(102,231,200,0.69);
+}
+
+.download-cv:hover {
+  background-color: azure;
+  box-shadow: none;
+}
+
+.main img {
+  width: 350px;
+  height: 350px;
+  z-index: 1;
+}
+
+.about {
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  width: 100vw;
+  align-items: center;
+  padding: 10px;
+  background-color: black;
+}
+
+#lasEspecialidades{
+width: 100vw;
+  background: black;
+
+}
+
+.about img {
+  width: 100%;
+  grid-column: 1/5;
+  padding: 1px;
+  margin-top: 5px;
+  margin-left: 5px;
+  background: cyan;
+}
+
+.about-info {
+  grid-column: 5/10;
+  padding: 3em;
+
+}
+
+.about-info h1 {
+  font-size: 4.5em;
+  color: aqua;
+  font-weight: bolder;
+}
+
+.divider {
+  height: 4px;
+  width: 60px;
+  background-color: aqua;
+  margin-top: 2px;
+  margin-bottom: 2em;
+
+}
+
+.portfolio,
+.contact-section {
+  width: 100vw;
+  background-color: #191c32;
+  color: #fff;
+}
+
+
+.portfolio-heading {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 1em;
+
+}
+.divider2{
+    height: 4px;
+  width: 60px;
+  background-color: aqua;
+  margin-left: 420px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+
+}
+.portfolio-heading h1 {
+  font-size: 4.5em;
+  font-weight: bolder;
+  color: cyan;
+  text-align: center;
+  margin-top: 20px;
+
+}
+.card {
+  width: 300px;
+  background-color: #02051F;
+  margin: 1em;
+  font-size: 15px;
+  color: aqua;
+}
+
+.card p{
+color: white;
+}
+
+#losTrabajos{
+  color: aqua;
+}
+
+#losContactos{
+  background-color:  black;
+
+}
+
+#losContactos h1{
+  color: cyan;
+  font-size: 4em;
+  font-weight: bolder;
+  text-align: center;
+}
+
+.divider3{
+    height: 4px;
+  width: 60px;
+  background-color: aqua;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  margin-left: 390px;
+}
+
+.datosdecontacto{
+  margin-left: 285px;
+
+}
+.card2{
+  background-color: #191c32;
+  color: white;
+  height: 120px;
+  padding: 5px;
+}
+
+ .card2 a{
+  color: aqua;
+ }
+  
+footer{
+  background-color: #02051F;
+}
+.final a{
+  color: aqua;
+}
+
+img {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+  object-fit: cover;
+}
